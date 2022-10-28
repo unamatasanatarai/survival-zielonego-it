@@ -1,0 +1,13 @@
+Survival Zielonego IT
+=====================
+
+Krótkie _cheat-sheet_'y przetrwania w linuxie dla początkujących*.
+
+`*` początkujący: laików, zielonych, eksperymentatorów, odważnych.
+
+
+Survivale
+---------
+
+- [Absolutne minimum Terminala](terminal)
+- [Absolutne minimum Vi|Vim|Neovim](vi)
