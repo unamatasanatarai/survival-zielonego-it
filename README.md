@@ -9,5 +9,5 @@ Krótkie _cheat-sheet_'y przetrwania w linuxie dla początkujących*.
 Survivale
 ---------
 
-- [Absolutne minimum Terminala](terminal)
-- [Absolutne minimum Vi|Vim|Neovim](vi)
+- [Absolutne minimum Terminala](survivale/terminal)
+- [Absolutne minimum Vi|Vim|Neovim](survivale/vi)
