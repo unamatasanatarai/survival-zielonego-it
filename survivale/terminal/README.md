@@ -15,7 +15,9 @@ Survival w Terminalu
 |`ls`|pokaż pliki i katalogi, które są w aktualnym katalogu/ścieżce|
 |`ls -la`| pokaż wszystkie pliki i katalogi, też te ukryte, jako lista(tabelka)|
 |`mkdir nazwa`|dodaj nowy folder|
+|`rmdir nazwa`|usuń pusty katalog|
 |`rm nazwa`|usuń plik|
 |`rm -r nazwa`|usuń katalog|
 |`cp z_miejsca do_miejsca`|skopiuj plik z_miejsca do_miejsca|
 |`mv z_miejsca do_miejsca`|przenieś plik z_miejsca do_miejsca|
+|`tab`|uzupełnia dostępne komendy lub możliwe pliki/katalogi|
