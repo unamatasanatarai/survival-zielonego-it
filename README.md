@@ -11,6 +11,6 @@ Survivale
 ---------
 
 - [Terminal, Bash, Shell](survivale/terminal)
-- [Vi|Vim|Neovim](survivale/vi)
+- [Vi, Vim, Neovim](survivale/vi)
 - [Git](survivale/git)
 - [Katalogi w linuxie](survivale/katalogi-linuxa)
