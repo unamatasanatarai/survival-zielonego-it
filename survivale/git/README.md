@@ -14,6 +14,8 @@ GitHub jest za darmo, więc zacznij z niego korzystać już dziś.
 |`git init`|Utwórz repozytorium .git w katalogu, w którym się znajdujesz.
 |`git config user.name "Niepodawaj Prawdziwychdanych"`|Aby móc wysyłać kod do repozytorium, musisz się przedstawić|
 |`git config user.email "AdresE-Mail@nikomu.nie.mow"`|Aby móc wysyłać kod do repozytorium, musisz się zidentyfikować|
+|`git status`|Sprawdź czy są jakieś zmiany w lokalnym repozytorium|
+|`git diff`|Porównaj zmiany z tym co było _oryginalnie_|
 |`git add --all`|Dodaj wszystkie zmiany do bazy danych gita|
 |`git commit -m "Opis commita"`|Nazwij wszystkie zmiany zanim je wyślesz do repozytorium|
 |`git push`|Wyślij dodane i zacommitowane zmiany do internetu.|
