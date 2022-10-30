@@ -11,3 +11,4 @@ Survivale
 
 - [Absolutne minimum Terminala](survivale/terminal)
 - [Absolutne minimum Vi|Vim|Neovim](survivale/vi)
+- [Absolutne minimum Git](survivale/git)
