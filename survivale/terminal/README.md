@@ -17,7 +17,7 @@ Survival w Terminalu
 |`mkdir nazwa`|dodaj nowy folder|
 |`rmdir nazwa`|usuń pusty katalog|
 |`rm nazwa`|usuń plik|
-|`rm -r nazwa`|usuń katalog|
+|`rm -r nazwa`|usuń katalog i pliki, które w nim są, i podkatalogi, i ich pliki..|
 |`cp z_miejsca do_miejsca`|skopiuj plik z_miejsca do_miejsca|
 |`mv z_miejsca do_miejsca`|przenieś plik z_miejsca do_miejsca|
 |`tab`|uzupełnia dostępne komendy lub możliwe pliki/katalogi|
