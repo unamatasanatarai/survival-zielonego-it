@@ -10,7 +10,7 @@ Opisane tu dokumenty stanowią instrukcje do **absolutnego minimum** radzenia so
 Survivale
 ---------
 
-- [Absolutne minimum Terminala](survivale/terminal)
-- [Absolutne minimum Vi|Vim|Neovim](survivale/vi)
-- [Git i jego absolutne minimum](survivale/git)
+- [Terminal, Bash, Shell](survivale/terminal)
+- [Vi|Vim|Neovim](survivale/vi)
+- [Git](survivale/git)
 - [Katalogi w linuxie](survivale/katalogi-linuxa)
