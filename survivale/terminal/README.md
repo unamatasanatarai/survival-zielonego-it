@@ -11,6 +11,7 @@ Survival w Terminalu
 |---|---|
 |`cd`|zmień katalog|
 |`cd /tmp`|wejdź do katalogu /tmp"
+|`cd ..`|wejdź do katalogu _wyżej_"
 |`cd Documents`|wejdź do katalogu Documents (jeśli istnieje)|
 |`ls`|pokaż pliki i katalogi, które są w aktualnym katalogu/ścieżce|
 |`ls -la`| pokaż wszystkie pliki i katalogi, też te ukryte, jako lista(tabelka)|
