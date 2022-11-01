@@ -14,3 +14,4 @@ Survivale
 - [Vi, Vim, Neovim](survivale/vi)
 - [Git](survivale/git)
 - [Katalogi w linuxie](survivale/katalogi-linuxa)
+- [ssh-keygen](survivale/ssh-keygen)
