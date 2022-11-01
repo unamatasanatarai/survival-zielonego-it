@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-mark_begin='---------'
+mark_begin='## Survivale'
 declare -a toc=()
 
 while IFS= read -r file; do

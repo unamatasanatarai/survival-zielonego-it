@@ -1,5 +1,4 @@
-Survival Zielonego IT
-=====================
+# Survival Zielonego IT
 
 Krótkie _cheat-sheet_'y przetrwania w linuxie dla początkujących*.
 
@@ -9,8 +8,7 @@ Opisane tu dokumenty stanowią instrukcje do **absolutnego minimum** radzenia so
 
 **Przypominam** absolutne minimum. [Resztę sobie sam poszukasz ;)](https://startpage.com)
 
-Survivale
----------
+## Survivale
 
 1. [Katalogi na linuxie](survivale/katalogi-linuxa)
 1. [Markdown](survivale/markdown)
