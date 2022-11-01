@@ -48,7 +48,7 @@ Konwencja dyktuje, aby plik `README.md` miał nazwę dokładnie taką jak czyta
 
 #### Lista punktowa
 
-> ```console
+> ```
 > 1. możesz używać samych jedynek
 > 1. aby robić automatyczną numerację
 > 1. programy wyświetlające wiedzą
