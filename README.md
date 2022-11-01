@@ -7,14 +7,15 @@ Krótkie _cheat-sheet_'y przetrwania w linuxie dla początkujących*.
 
 Opisane tu dokumenty stanowią instrukcje do **absolutnego minimum** radzenia sobie z funkcjonalnościami, programami linuxa. 
 
-**Przypominam** absolutne minimum. [Resztę sobie sam poszukasz ;)](https://startpage.com)
+**Przypominam** absolutne minimum. [Resztę sobie sam poszukasz ;)](https://startpage.com)
 
 Survivale
 ---------
 
-- [Terminal, Bash, Shell](survivale/terminal)
-- [Vi, Vim, Neovim](survivale/vi)
-- [Git](survivale/git)
-- [Katalogi w linuxie](survivale/katalogi-linuxa)
-- [ssh-keygen](survivale/ssh-keygen)
-- [markdown](survivale/markdown)
+1. [Katalogi na linuxie](survivale/katalogi-linuxa)
+1. [Survial ssh-keygen](survivale/ssh-keygen)
+1. [Survival Markdowna](survivale/markdown)
+1. [Survival Vi, Vim, Nvim](survivale/vi)
+1. [Survival git'a](survivale/git)
+1. [Survival w Terminalu](survivale/terminal)
+

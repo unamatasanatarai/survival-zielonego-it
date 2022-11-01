@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+mark_begin='---------'
+declare -a toc=()
+
+while IFS= read -r file; do
+  title=$(head -n1 "$file")
+  toc+=("1. [${title//# /}](${file%/README.md})")
+done < <(find survivale -name "README.md" -type f)
+
+IFS=$'\n' toc=("$(sort <<< "${toc[*]}")"$'\n')
+unset IFS
+
+removing=false
+
+while IFS= read -r line; do
+
+  if ! "$removing" && [[ $line =~ $mark_begin ]]; then
+    removing=true
+    echo -e "$mark_begin\n" >> README.md.new
+    IFS= echo -e "${toc[@]}" >> README.md.new
+  fi
+
+  if ! "$removing"; then
+    echo -e "$line" >> README.md.new
+  fi
+
+done < README.md
+
+mv README.md.new README.md
+
+echo reindexed
