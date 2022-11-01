@@ -1,5 +1,4 @@
-Katalogi na linuxie
-===================
+# Katalogi na linuxie
 
 Linux ma różne katalogi, tutaj opisane są te, które będą Tobie niezbędne na start.
 

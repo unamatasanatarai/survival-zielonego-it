@@ -1,5 +1,4 @@
-Terminal, bash, sh
-==================
+# Terminal, bash, sh
 
 1. Jeśli jesteś na linuxie, to zazwyczaj `ctrl` + `alt` + `t` otwiera terminal
 2. Na windowsie musisz zainstalować BASH i UBUNTU (wyszukiwarki internetowe Ci w tym pomogą)

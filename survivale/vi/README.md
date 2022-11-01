@@ -1,11 +1,10 @@
-Vim, vi, nvim
-=============
+# Vim, vi, nvim
 
-Vim ponoć ma wysoki próg wejścia.
+Vim ponoć ma wysoki próg wejścia.
 
 Ale czy to prawda?
 
-Po pierwsze: **Dlaczego umieć VI**?
+Po pierwsze: **Dlaczego umieć VI**?
 
 ponieważ:
 - precyzja
@@ -17,7 +16,7 @@ ponieważ:
 |Klawisz|Opis|
 |---|---|
 |i|Wejdź w tryb edycji, wstawiania -- INSERT --|
-|ESC|Cofnij się do truby -- NORMAL -- | 
+|ESC|Cofnij się do truby -- NORMAL -- | 
 |←|Lewo|
 |↓|dół|
 |↑|góra|
@@ -34,7 +33,7 @@ Ale na dziś - wystarczy
 
 zacznij cisnąć w `ESC` kilkanaście razy, zazwyczaj pomaga!
 
-Cofniesz się do trybu "NORMAL". A stamtąd już łatwo wyjść.
+Cofniesz się do trybu "NORMAL". A stamtąd już łatwo wyjść.
 
 ## Co to jest -- INSERT --
 
@@ -42,7 +41,7 @@ W tym trybie zmieniasz tekst, dodajesz go, usuwasz. Dokładanie tak jak w notatn
 
 ## Co to jest -- NORMAL --
 
-Gdy uruchomisz Vi, Vim, Nvim, to domyślnie jesteś w trybie "NORMAL".
+Gdy uruchomisz Vi, Vim, Nvim, to domyślnie jesteś w trybie "NORMAL".
 
 To jest tryb czytania, nie możesz pisać. Ale możesz poruszać kursorem.
 

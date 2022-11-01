@@ -1,5 +1,4 @@
-git
-===
+# git
 
 > Najpierw naucz się poprawnie, potem skorzystaj z gotowców.
 

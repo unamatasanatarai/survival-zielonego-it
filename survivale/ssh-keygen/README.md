@@ -1,5 +1,4 @@
-ssh-keygen
-==========
+# ssh-keygen
 
 `ssh-keygen` pozwoli Tobie utworzyć klucz prywatny i publiczny, dzięki któremu będziesz mógł, dla przykładu, aktualizować repozytoria [git](../git/README.md).
 
