@@ -13,9 +13,9 @@ Survivale
 ---------
 
 1. [Katalogi na linuxie](survivale/katalogi-linuxa)
-1. [Survial ssh-keygen](survivale/ssh-keygen)
-1. [Survival Markdowna](survivale/markdown)
-1. [Survival Vi, Vim, Nvim](survivale/vi)
-1. [Survival git'a](survivale/git)
-1. [Survival w Terminalu](survivale/terminal)
+1. [Markdown](survivale/markdown)
+1. [Terminal, bash, sh](survivale/terminal)
+1. [Vim, vi, nvim](survivale/vi)
+1. [git](survivale/git)
+1. [ssh-keygen](survivale/ssh-keygen)
 

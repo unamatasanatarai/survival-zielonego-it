@@ -1,5 +1,5 @@
-Survival Markdowna
-==================
+Markdown
+========
 
 Markdown to _składnia_, która pozwala tworzyć _"piękne"_ dokumenty zwyklym tekstem. Ten plik, [który teraz czytasz](https://raw.githubusercontent.com/unamatasanatarai/survival-zielonego-it/main/survivale/markdown/README.md), jest napisany w Markdownie.
 

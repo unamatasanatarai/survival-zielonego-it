@@ -1,5 +1,5 @@
-Survival Vi, Vim, Nvim
-======================
+Vim, vi, nvim
+=============
 
 Vim ponoć ma wysoki próg wejścia.
 
