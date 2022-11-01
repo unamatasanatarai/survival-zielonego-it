@@ -7,6 +7,8 @@ Krótkie _cheat-sheet_'y przetrwania w linuxie dla początkujących*.
 
 Opisane tu dokumenty stanowią instrukcje do **absolutnego minimum** radzenia sobie z funkcjonalnościami, programami linuxa. 
 
+**Przypominam** absolutne minimum. [Resztę sobie sam poszukasz ;)](https://startpage.com)
+
 Survivale
 ---------
 
@@ -15,3 +17,4 @@ Survivale
 - [Git](survivale/git)
 - [Katalogi w linuxie](survivale/katalogi-linuxa)
 - [ssh-keygen](survivale/ssh-keygen)
+- [markdown](survivale/markdown)
