@@ -15,15 +15,16 @@ ponieważ:
 
 |Klawisz|Opis|
 |---|---|
-|i|Wejdź w tryb edycji, wstawiania `-- INSERT --`|
-|ESC|Wyjdź się do trybu `-- NORMAL --`| 
-|←|Lewo|
-|↓|dół|
-|↑|góra|
-|→|prawo|
-|:wq|Zapisz aktualny plik, oraz wyjdź z programu, z trybu `NORMAL`|
-|:q!|Wyjdź z programu i NIE zapisuj wprowadzonych zmian, z trybu `NORMAL`|
-|:w|zapisz zmiany, z trybu `NORMAL`|
+|`vi nazwaPliku`|Otwórz plik w programie Vim|
+|`i`|Wejdź w tryb edycji, wstawiania `-- INSERT --`|
+|`ESC`|Wyjdź się do trybu `-- NORMAL --`| 
+|`←`|Lewo|
+|`↓`|dół|
+|`↑`|góra|
+|`→`|prawo|
+|`:wq`|Zapisz aktualny plik, oraz wyjdź z programu, z trybu `NORMAL`|
+|`:q!`|Wyjdź z programu i NIE zapisuj wprowadzonych zmian, z trybu `NORMAL`|
+|`:w`|zapisz zmiany, z trybu `NORMAL`|
 
 Z czasem zaczniesz unikać strzełek i w zamian będziesz używać `h` `j` `k` `l`.
 
