@@ -20,4 +20,5 @@
 |`rm -r nazwa`|usuń katalog i pliki, które w nim są, i podkatalogi, i ich pliki..|
 |`cp z_miejsca do_miejsca`|skopiuj plik z_miejsca do_miejsca|
 |`mv z_miejsca do_miejsca`|przenieś plik z_miejsca do_miejsca|
+|`mv aktualna_lokacja nowa_lokalizacja`|zmień nazwę pliku lub katalogu|
 |`tab`|uzupełnia dostępne komendy lub możliwe pliki/katalogi|
