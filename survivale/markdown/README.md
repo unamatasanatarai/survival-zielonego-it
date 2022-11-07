@@ -46,7 +46,7 @@ Konwencja dyktuje, aby plik `README.md` miał nazwę dokładnie taką jak czyta
 
 ---
 
-#### Lista punktowa
+#### Lista numerowana
 
 > ```
 > 1. możesz używać samych jedynek
@@ -66,7 +66,7 @@ Konwencja dyktuje, aby plik `README.md` miał nazwę dokładnie taką jak czyta
 
 ---
 
-#### Lista punktowa
+#### Lista punktowana
 
 > ```
 > - Lorem
