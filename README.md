@@ -13,7 +13,7 @@ Opisane tu dokumenty stanowią instrukcje do **absolutnego minimum** radzenia so
 1. [Katalogi na linuxie](survivale/katalogi-linuxa)
 1. [Markdown](survivale/markdown)
 1. [Terminal, bash, sh](survivale/terminal)
-1. [Vim, vi, nvim](survivale/vi)
-1. [git](survivale/git)
+1. [Vim, vi, nvim - edycja tekstu](survivale/vi)
+1. [git - jak przetrzymywać kod _na internetach_](survivale/git)
 1. [ssh-keygen](survivale/ssh-keygen)
 

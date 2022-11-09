@@ -1,15 +1,15 @@
-# Vim, vi, nvim
+# Vim, vi, nvim - edycja tekstu
 
-Vim ponoć ma wysoki próg wejścia.
+Vim ponoć ma wysoki próg wejścia, i ponoć jest trudny.
 
 Ale czy to prawda?
 
 Po pierwsze: **Dlaczego umieć VI**?
 
 ponieważ:
-- precyzja
 - dużo programów na linuxie inspirowana Vi używa klawiszy `h` `j` `k` `l`
-
+- precyzja
+- będziesz mógł się przechwalać, że jesteś najlepsiejszy!
 
 ## Absolutne minimum przetrwania
 
