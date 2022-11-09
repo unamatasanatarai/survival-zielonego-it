@@ -4,7 +4,7 @@
 
 ## Survival
 
-Najprościej utworzyć klucze SSH wpisując komendę `ssh-keygen` i wciskając enter kilka razy.
+Najprościej utworzyć klucze SSH wpisując komendę `ssh-keygen` i wciskając enter kilka razy.
 
 ```console
 $ ssh-keygen
