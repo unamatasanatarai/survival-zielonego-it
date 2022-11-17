@@ -10,6 +10,7 @@ Opisane tu dokumenty stanowią instrukcje do **absolutnego minimum** radzenia so
 
 ## Survivale
 
+1. [Jak nazywać pliki i katalogi](survivale/nazewnictwo-plikow-i-katalogow)
 1. [Katalogi na linuxie](survivale/katalogi-linuxa)
 1. [Markdown](survivale/markdown)
 1. [Terminal, bash, sh](survivale/terminal)
