@@ -7,8 +7,10 @@ Ale czy to prawda?
 Po pierwsze: **Dlaczego umieć VI**?
 
 ponieważ:
-- dużo programów na linuxie inspirowana Vi używa klawiszy `h` `j` `k` `l`
-- precyzja
+
+- te umiejętności są _przenośne_
+- dużo programów i serwisów (np. github) używa klawiszy `h` `j` `k` `l`,
+- precyzja,
 - będziesz mógł się przechwalać, że jesteś najlepsiejszy!
 
 ## Absolutne minimum przetrwania
