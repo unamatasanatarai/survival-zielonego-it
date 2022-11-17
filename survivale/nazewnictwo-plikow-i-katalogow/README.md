@@ -22,9 +22,9 @@ Ale, za to, umiesz wpisać `drzewo` (杰沃), ponieważ jest ono napisane za pom
 
 Korzystaj TYLKO z `a-z` małymi literami, nie używaj podłogi `_`.
 
-Podłoga jest trudno-czytelna i wymaga trzymania shifta. 
+Podłoga jest trudno-czytelna i wymaga trzymania shifta.
 
-**A wielkie i małe litery? **
+**A wielkie i małe litery?**
 
 W nazwach plików i katalogów, Linux uważa, że "A" to nie to samo co "a", ale Windows i Macos uważa, że obie litery są identyczne.
 
