@@ -1,6 +1,10 @@
 # Jak nazywać pliki i katalogi
 
-Pamiętaj, że to co tworzysz musi być **międzynarodowe**.
+**tl;dr:**
+
+> Te same reguły co w nazwach domen internetowych.
+
+Pamiętaj, że to co tworzysz, musi być **międzynarodowe**.
 
 Ty umiesz pisać `ą`, ale nie umiesz wpisać `杰沃`.
 
