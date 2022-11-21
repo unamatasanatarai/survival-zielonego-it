@@ -4,6 +4,8 @@
 
 > Te same reguły co w nazwach domen internetowych.
 
+## Racjonalizacja
+
 Pamiętaj, że to co tworzysz, musi być **międzynarodowe**.
 
 Ty umiesz pisać `ą`, ale nie umiesz wpisać `杰沃`.
