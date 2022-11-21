@@ -8,7 +8,7 @@ GitHub jest za darmo, więc zacznij z niego korzystać już dziś.
 
 ### Wysyłanie zmian do repozytorium
 
-1. `git add .`
+1. `git add --all`
 1. `git commit -m "pushing changes"`
 1. `git push -u origin main`
 
