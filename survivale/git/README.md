@@ -6,6 +6,18 @@ GitHub jest za darmo, więc zacznij z niego korzystać już dziś.
 
 ## Survival
 
+### Wysyłanie zmian do repozytorium
+
+1. `git add .`
+1. `git commit -m "pushing changes"`
+1. `git push -u origin main`
+
+### Klonowanie repozytorium
+
+1. `git clone git@....`
+
+## Przydatne komendy
+
 |komenda|opis|
 |---|---|
 |`git clone https://github.com/unamatasanatarai/survival-zielonego-it.git`|Zrób kopię repozytorium `survival-zielonego-it` w katalogu na Twoim komputerze. Nie będziesz mógł w nim nic zmieniać - zaczyna się od `https://`|
