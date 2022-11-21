@@ -1,6 +1,6 @@
-# Survival Zielonego IT
+# Survival Zielonego IT (SZIT)
 
-Krótkie _cheat-sheet_'y przetrwania w linuxie dla początkujących*.
+Krótkie _cheat-sheet_'y przetrwania w linuxie dla początkujących`*`.
 
 `*` początkujący: laików, zielonych, eksperymentatorów, odważnych.
 
